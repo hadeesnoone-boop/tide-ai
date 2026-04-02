@@ -1,0 +1,28 @@
+---
+name: ?? Bug report
+about: Something not working? Let us know.
+title: "[BUG] "
+labels: bug
+assignees: ''
+
+---
+
+**Describe the bug**
+A clear description of what's wrong.
+
+**To reproduce**
+Steps to make it happen.
+
+**Expected behavior**
+What should have happened.
+
+**Screenshots or logs**
+If you have them, add them.
+
+**Environment**
+- OS: [e.g., Ubuntu, macOS, Windows]
+- Python version: [e.g., 3.9]
+- Tide version: [e.g., 0.0.1]
+
+**Additional context**
+Anything else?

@@ -1,0 +1,23 @@
+---
+name: ?? Feature request
+about: An idea to make Tide stronger
+title: "[IDEA] "
+labels: enhancement
+assignees: ''
+
+---
+
+**What's the problem this solves?**
+Describe what's missing or hard right now.
+
+**What's your solution?**
+Describe the feature or change you want.
+
+**Alternatives you considered**
+Any other approaches?
+
+**Who does this help?**
+New users? Developers? Everyone?
+
+**Additional context**
+Examples, sketches, references – anything helps.
