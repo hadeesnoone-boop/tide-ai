@@ -65,3 +65,14 @@ Either way – Tide rises.
 ---
 
 *First commit: "Tide rises. No brakes."*
+## Quick Start
+
+### Prerequisites
+- Install [Ollama](https://ollama.com)
+- Pull a model: `ollama pull llama2`
+
+### Install Tide
+```bash
+git clone https://github.com/hadeesnoone-boop/tide-ai
+cd tide-ai
+pip install -e .
